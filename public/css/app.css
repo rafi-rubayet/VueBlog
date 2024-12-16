@@ -702,6 +702,12 @@ select {
 .h-4 {
   height: 1rem;
 }
+.h-auto {
+  height: auto;
+}
+.h-\[75px\] {
+  height: 75px;
+}
 .min-h-screen {
   min-height: 100vh;
 }
@@ -725,6 +731,12 @@ select {
 }
 .w-4 {
   width: 1rem;
+}
+.w-32 {
+  width: 8rem;
+}
+.w-\[60px\] {
+  width: 60px;
 }
 .min-w-full {
   min-width: 100%;

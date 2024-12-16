@@ -104,7 +104,7 @@ Follow these steps to set up the project locally:
 
 ## Contact
 
-- **Author**: Rubayet Rafi  
+- **Author**: Rafi Rubayet 
 - **Email**: [rafi.rubayet.jp@gmail.com](mailto:rafi.rubayet.jp@gmail.com)  
 
 Feel free to reach out for any questions or feedback!
